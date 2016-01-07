@@ -4,7 +4,7 @@
   "description": "Converts OpenFlights CSV data and stores in db",
   "main": "index.js",
   "dependencies": {
-    "electron-prebuilt": "^0.36.2"
+    "csv-parse": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
